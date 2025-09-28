@@ -1,5 +1,5 @@
 ---
-title: Storage
+title: Storag activare
 titleTemplate: Frequently Asked Questions
 description: Understanding Storage Permissions.
 ---
